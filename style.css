@@ -1,0 +1,11 @@
+:root {
+    --azul-oscuro: #2c3e50;
+    --aqua: #18bc9c;
+    --gris-oscuro: #212529;
+    --tipo-de-letra:'Roboto Condensed', sans-serif;
+
+}
+
+.navegador{
+    background-color: --azul-oscuro;
+}
